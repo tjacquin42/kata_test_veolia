@@ -1,0 +1,10 @@
+{
+    "auction": {
+      "title": "Kata Enchères",
+      "subtitle": "Résultat de l’enchère",
+      "reserve": "Prix de réserve",
+      "winner": "Gagnant",
+      "finalPrice": "Prix final"
+    }
+  }
+  
